@@ -1,0 +1,12 @@
+.bubbly {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 2em;
+    color: #FF69B4;
+    text-shadow: 2px 2px 0 #fff,
+                 4px 4px 0 #FF69B4,
+                 6px 6px 0 #FFD700;
+    transition: 0.3s;
+}
+.bubbly:hover {
+    transform: scale(1.1);
+}
